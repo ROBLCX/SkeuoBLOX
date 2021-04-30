@@ -1,1 +1,4 @@
-## Readme
+## SKBLOX
+Skeuomorphic ROBLOX website theme.
+## WARNING
+THIS PROJECT IS IN VERY EARLY ALPHA.
